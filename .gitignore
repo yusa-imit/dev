@@ -4,8 +4,10 @@ worker
 .vercel
 .output
 
+
 # dependencies
 /node_modules
+.yarn
 
 # IDEs and editors
 /.idea
