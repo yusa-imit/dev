@@ -1,5 +1,5 @@
-import Counter from "~/components/Counter";
-import "./index.css";
+import Counter from "~/components/Counter"
+import "./index.css"
 
 export default function Home() {
   return (
@@ -14,5 +14,5 @@ export default function Home() {
         to learn how to build Solid apps.
       </p>
     </main>
-  );
+  )
 }
